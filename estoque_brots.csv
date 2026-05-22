@@ -1,0 +1,5 @@
+PRODUTO;Individual;Leite;Un;5.0;6.714285714285714;Secos;Queiroz;true;Médio;0
+LOTE;Leite;5.0;20/05/2026;N/A
+LOTE;Leite;30.0;20/06/2026;N/A
+MOVIMENTACAO;Leite;Entrada;Compra;5.0;5.0;13/05/2026;20/05/2026;N/A
+PRODUTO;Individual;Teste;;0.0;0.0;Frios;;true;Médio;0
